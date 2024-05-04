@@ -68,4 +68,4 @@ Run `start.php` in the `consumer` fodler
 	$ cd consumer
 	$ php start.php
 
-It is recommended that you use a process monitoring service such as [supervisord](http://supervisord.org) to restart the script in case of a failure.
+It is recommended that you use a process monitoring service such as [supervisord](http://supervisord.org) to restart the script in case of a failure..
